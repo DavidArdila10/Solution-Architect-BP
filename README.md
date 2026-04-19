@@ -3,12 +3,17 @@
 Entrega final del ejercicio de arquitectura empresarial y diseño de solución para plataforma de banca por internet.
 
 ## Contenido
-- Documento final en PDF: [docs/Arquitectura_Empresarial_Banca_BP.pdf](docs/Arquitectura_Empresarial_Banca_BP.pdf)
-- Diagrama C4 de Contexto: [diagramas/c4-contexto.png](diagramas/c4-contexto.png)
-- Diagrama C4 de Contenedores: [diagramas/c4-contenedores.png](diagramas/c4-contenedores.png)
-- Diagrama C4 de Componentes: [diagramas/c4-componentes.png](diagramas/c4-componentes.png)
+- Documento final en PDF: [DEVSU- Prueba TECH.pdf](./DEVSU-%20Prueba%20TECH.pdf)
+- Diagrama C4 de Contexto: [c4_context.png](./c4_context.png)
+- Diagrama C4 de Contenedores: [c4_containers.png](./c4_containers.png)
+- Diagrama C4 de Componentes: [c4_components.png](./c4_components.png)
 
 ## Vista previa de diagramas
-![C4 Contexto](diagramas/c4-contexto.png)
-![C4 Contenedores](diagramas/c4-contenedores.png)
-![C4 Componentes](diagramas/c4-componentes.png)
+### C4 Contexto
+![C4 Contexto](./c4_context.png)
+
+### C4 Contenedores
+![C4 Contenedores](./c4_containers.png)
+
+### C4 Componentes
+![C4 Componentes](./c4_components.png)
